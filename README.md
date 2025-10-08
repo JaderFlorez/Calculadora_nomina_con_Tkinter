@@ -42,7 +42,7 @@ La aplicación cuenta con tres módulos principales:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/JaderFlorez/calculadora_nomina_tkinter.git
+   git clone https://github.com/JaderFlorez/calculadora_nomina_tkinter.git](https://github.com/JaderFlorez/calculadora_nomina_con_tkinter.git
 
 ## 🧠 Objetivos de aprendizaje
 
