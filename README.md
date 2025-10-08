@@ -38,12 +38,6 @@ La aplicación cuenta con tres módulos principales:
 
 ---
 
-## 🚀 Ejecución del proyecto
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/JaderFlorez/calculadora_nomina_tkinter.git](https://github.com/JaderFlorez/calculadora_nomina_con_tkinter.git
-
 ## 🧠 Objetivos de aprendizaje
 
 Este proyecto fue desarrollado con el propósito de:
